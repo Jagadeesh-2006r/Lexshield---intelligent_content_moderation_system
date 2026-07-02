@@ -105,8 +105,8 @@ User Upload
 # Lexshield
 ## Repositories
 
-- Frontend: https://github.com/Jagadeesh-2006r/intelligent_content_moderation_system_frontend
+- Frontend: https://github.com/Kishorem6002/LexShield_frontend
 
-- Backend: https://github.com/Jagadeesh-2006r/intelligent_content_moderation_system_backend
+- Backend: https://github.com/Kishorem6002/LexShield_backend
 
-- ML Engine: https://github.com/Jagadeesh-2006r/intelligent_content_moderation_system_ml_engine
+- ML Engine: https://github.com/Kishorem6002/LexShield_ml_engine
