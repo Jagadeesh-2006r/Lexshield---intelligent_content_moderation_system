@@ -56,7 +56,7 @@ User Upload
 
 ### Backend
 - FastAPI
-- Python
+- Python(Django)
 
 ### AI & Machine Learning
 - Hugging Face Transformers
