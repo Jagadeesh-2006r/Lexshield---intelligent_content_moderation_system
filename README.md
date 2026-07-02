@@ -1,8 +1,8 @@
-# SentriAI – Intelligent Content Moderation System
+# Lexshield – Intelligent Content Moderation System
 
 ## Overview
 
-SentriAI is an AI-powered Intelligent Content Moderation System that automatically analyzes text, images, and videos to detect harmful, abusive, hateful, and inappropriate content in real time. By integrating AI with UiPath Maestro Case, Agent Builder, and Orchestrator, it enables automated moderation, human-in-the-loop review, and secure, transparent decision-making for safer digital communities.
+Lexshield is an AI-powered Intelligent Content Moderation System that automatically analyzes text, images, and videos to detect harmful, abusive, hateful, and inappropriate content in real time. By integrating AI with UiPath Maestro Case, Agent Builder, and Orchestrator, it enables automated moderation, human-in-the-loop review, and secure, transparent decision-making for safer digital communities.
 
 ---
 
@@ -14,7 +14,7 @@ Every day, millions of users upload posts, comments, images, and videos across s
 
 ## Solution
 
-SentriAI automates the content moderation process by combining Artificial Intelligence with UiPath enterprise automation. The system performs real-time analysis of text, images, and videos, classifies content based on AI confidence, and automatically takes appropriate moderation actions while ensuring human oversight for uncertain cases.
+Lexshield automates the content moderation process by combining Artificial Intelligence with UiPath enterprise automation. The system performs real-time analysis of text, images, and videos, classifies content based on AI confidence, and automatically takes appropriate moderation actions while ensuring human oversight for uncertain cases.
 
 ---
 
@@ -98,16 +98,11 @@ User Upload
 
 ## Hackathon
 
-**Project Name:** SentriAI – Intelligent Content Moderation System
+**Project Name:** Lexshield – Intelligent Content Moderation System
 
-**Hackathon:** UiPath AgentHack
+# Lexshield-Intelligent-Content-Moderation-All-Repositories
 
-**Track:** Track 1 – UiPath Maestro Case
-
-
-# SentriAI-Intelligent-Content-Moderation-All-Repositories
-
-# SentriAI
+# Lexshield
 ## Repositories
 
 - Frontend: https://github.com/Jagadeesh-2006r/intelligent_content_moderation_system_frontend
